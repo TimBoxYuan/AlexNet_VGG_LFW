@@ -1,0 +1,4 @@
+CVL1=>MP=>CVL2=>MP=>CVL3=>CVL4=>CVL5=>MP=>FC1=>FC2=>SM
+
+The extra Grey blocks (added on the edges of the matrix): padding
+Stride:  how many steps we are moving in each steps in convolution.By default it is one.
